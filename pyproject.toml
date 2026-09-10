@@ -1,0 +1,13 @@
+[project]
+name = "2026-09-10-slides"
+version = "0.1.0"
+requires-python = ">=3.14"
+
+dependencies = [
+    "ipykernel>=7",
+    "jupyterlab>=4.6",
+    "jupyterlab_rise",
+]
+
+[tool.uv]
+package = false
