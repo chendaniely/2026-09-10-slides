@@ -1,11 +1,11 @@
-
+---
+format: gfm
+---
 
 ## Sides
 
 This is the root readme document.
 
-``` r
+```{r}
 3 + 3
 ```
-
-    [1] 6
